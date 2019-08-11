@@ -1,8 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title><![CDATA[Hello World]]></title>
-    <url>%2F2019%2F08%2F09%2Fhello-world%2F</url>
-    <content type="text"><![CDATA[Welcome to Hexo! This is your very first post. Check documentation for more info. If you get any problems when using Hexo, you can find the answer in troubleshooting or you can ask me on GitHub. Quick StartCreate a new post1$ hexo new "My New Post" More info: Writing Run server1$ hexo server More info: Server Generate static files1$ hexo generate More info: Generating Deploy to remote sites1$ hexo deploy More info: Deployment]]></content>
+    <title><![CDATA[我的第一篇Blog😸]]></title>
+    <url>%2F2019%2F08%2F11%2F%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87Blog%F0%9F%98%BA%2F</url>
+    <content type="text"><![CDATA[这篇Blog本来该是昨天，也可能是前天就该写的😋 第一次嘛，就当和自己聊聊天。 想要记录点📝东西这件事已经计划很久了，但是你知道，坚持本来就不是一件很容易的事情，更别说对于我这种毅力＆执行力未发育完全的小可爱😊。 其实，你说每天花几分钟或者十几分钟坚持的做一件事就那么难🐎？未必吧，但这大概就是作为☝️个平凡小可爱的必要条件，同样，这也是距离优秀的一个🚪槛…. 对了，想起来一件很值得在这里提到的事，这个Blog是家猫花了一下午的时间给搭的哦（小声地说🤫），今后这里就是我的㊙️㊙️花园啦啦啦👨‍❤️‍💋‍👨]]></content>
+      <tags>
+        <tag>周日</tag>
+      </tags>
   </entry>
 </search>
